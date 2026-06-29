@@ -1,4 +1,4 @@
-﻿using System.Linq;
+using System.Linq;
 using Il2CppAssets.Scripts.Models;
 using Il2CppAssets.Scripts.Models.Towers;
 using BetterEziliTotem;
@@ -10,6 +10,7 @@ using MelonLoader;
 
 [assembly: MelonInfo(typeof(BetterEziliTotemMod), ModHelperData.Name, ModHelperData.Version, ModHelperData.RepoOwner)]
 [assembly: MelonGame("Ninja Kiwi", "BloonsTD6")]
+[assembly: MelonGame("Ninja Kiwi", "BloonsTD6-Epic")]
 
 namespace BetterEziliTotem;
 

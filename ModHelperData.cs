@@ -2,10 +2,11 @@
 
 public static class ModHelperData
 {
-    public const string WorksOnVersion = "36.1";
+    public const string WorksOnVersion = "55.2";
     public const string Version = "1.1.2";
     public const string RepoOwner = "doombubbles";
-    public const string RepoName = "better-ezili-totem";
+    public const string PrevRepoName = "better-ezili-totem";
+    public const string RepoName = "BetterEziliTotem";
     public const string Name = "Better Ezili Totem";
 
     public const string Description =
